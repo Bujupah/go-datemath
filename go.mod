@@ -1,3 +1,3 @@
-module github.com/vectordotdev/go-datemath
+module github.com/bujupah/go-datemath
 
 go 1.13
